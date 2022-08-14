@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap");
 
 body {
-  background-color: hsl(151, 65%, 13%);
+  background-color: hsl(151, 60%, 10%);
   -ms-overflow-style: none; /* for Internet Explorer, Edge */
   scrollbar-width: none; /* for Firefox */
   overflow-y: scroll;
@@ -13,7 +13,7 @@ body::-webkit-scrollbar {
 .App {
   margin: 0 auto;
   margin-top: 20px;
-  background-color: hsl(151, 65%, 13%);
+  background-color: hsl(151, 60%, 10%);
   font-size: 1rem;
   font-family: "IBM Plex Mono", monospace;
   text-align: left;
@@ -28,7 +28,7 @@ body::-webkit-scrollbar {
 input {
   font-family: "IBM Plex Mono", monospace;
   font-size: 1rem;
-  background-color: hsl(151, 65%, 13%);
+  background-color: hsl(151, 60%, 10%);
   color: #39ff14;
   border: 0;
   outline: none;
@@ -47,7 +47,7 @@ input {
   padding-left: 5px;
   padding-right: 5px;
   font-weight: bold;
-  color: hsl(151, 65%, 13%);
+  color: hsl(151, 60%, 10%);
   background-color: #39ff14;
 }
 
