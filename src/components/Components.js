@@ -61,7 +61,7 @@ export const Help = () => {
     <div className="view">
       <table>
         <tbody>
-          <tr>
+          <tr className="header">
             <td colSpan="3" className="command-head">
               Commands:
             </td>

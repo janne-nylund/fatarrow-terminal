@@ -43,8 +43,11 @@ input {
   line-height: 1.5rem;
 }
 
-.command-head {
+.command {
   margin-bottom: 10px;
+}
+
+.command-head {
   padding-left: 5px;
   padding-right: 5px;
   font-weight: bold;
