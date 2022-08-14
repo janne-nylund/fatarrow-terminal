@@ -140,8 +140,8 @@ export const About = () => {
       I'm a student at Centria University of Applied Sciences,{" "}
       <i>Bachelor of Engineering, Information Technology</i> ( TOTAL CREDITS:
       162 / AVERAGE GRADE: 4.45). Finally after the pandemic (fingers crossed),
-      I'm looking for an suitable place to carry out my practical training and
-      to hopefully write my thesis.
+      I'm looking for a suitable place to carry out my practical training and 
+      hopefully write my thesis.
       <br />
       <br />
       <span className="command-head">

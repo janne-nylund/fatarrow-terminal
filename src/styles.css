@@ -18,7 +18,7 @@ body::-webkit-scrollbar {
   font-family: "IBM Plex Mono", monospace;
   text-align: left;
   color: #39ff14;
-  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.45);
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.65);
   min-height: 90vh;
   max-width: 800px;
   padding: 20px;
