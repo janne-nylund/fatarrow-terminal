@@ -1,2 +1,2 @@
 # fatarrow-terminal
-Created with CodeSandbox
+Terminal style website
