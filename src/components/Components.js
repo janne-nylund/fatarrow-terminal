@@ -68,7 +68,7 @@ export const Help = () => {
           </tr>
 
           <tr>
-            <td>whois</td>
+            <td>who is</td>
             <td>&nbsp;&nbsp;&nbsp;//&nbsp;</td>
             <td>
               <small>Info about me</small>
