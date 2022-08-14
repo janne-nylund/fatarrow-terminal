@@ -131,7 +131,7 @@ export const Help = () => {
 export const About = () => {
   return (
     <div className="view">
-      Hi there, my name is Janne Nylund{" "}
+      Hi, my name is Janne Nylund{" "}
       <span role="img" aria-label="wave">
         👋{" "}
       </span>
@@ -160,7 +160,7 @@ export const About = () => {
         <li>Remix</li>
         <li>Tailwind Css</li>
         <li>
-          Prisma <small>(ORM – object-relational mapper)</small>
+          Prisma <small>(ORM - object-relational mapper)</small>
         </li>
         <li>
           Redux <small>(Redux Toolkit)</small>
