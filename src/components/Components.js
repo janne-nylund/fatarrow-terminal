@@ -66,9 +66,9 @@ export const Help = () => {
               Commands:
             </td>
           </tr>
-
+          <tr><td colSpan='3'>&nbsp;</td></tr>
           <tr>
-            <td>who is</td>
+            <td>whois</td>
             <td>&nbsp;&nbsp;&nbsp;//&nbsp;</td>
             <td>
               <small>Info about me</small>
