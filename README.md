@@ -1,2 +1,2 @@
 # fatarrow-terminal
-Terminal style website
+Terminal-style website
