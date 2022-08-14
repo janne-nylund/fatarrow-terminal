@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap");
+
+body {
+  background-color: rgb(8, 29, 19);
+  -ms-overflow-style: none; /* for Internet Explorer, Edge */
+  scrollbar-width: none; /* for Firefox */
+  overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+.App {
+  margin: 0 auto;
+  margin-top: 20px;
+  background-color: rgb(8, 29, 19);
+  font-size: 1rem;
+  font-family: "IBM Plex Mono", monospace;
+  text-align: left;
+  color: #39ff14;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.45);
+  min-height: 90vh;
+  max-width: 600px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 1rem;
+  background-color: rgb(8, 29, 19);
+  color: #39ff14;
+  border: 0;
+  outline: none;
+  caret-color: #39ff14;
+}
+
+.view {
+  max-width: 80%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding-left: 15px;
+  line-height: 1.5rem;
+}
+
+.command-head {
+  padding-left: 5px;
+  padding-right: 5px;
+  font-weight: bold;
+  color: rgb(8, 29, 19);
+  background-color: #39ff14;
+}
+
+a {
+  color: #39ff14;
+}
+
+.prompt {
+  margin-top: 1px;
+}
